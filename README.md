@@ -17,3 +17,6 @@ This script automates the process of tracking the prices of the Samsung Galaxy S
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repository.git
+2. Open script
+   ```
+   double tap on App.py 
